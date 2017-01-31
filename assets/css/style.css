@@ -1,4 +1,4 @@
-﻿
+
 /*=============================================================
     Authour URI: www.binarytheme.com
     License: Commons Attribution 3.0
@@ -195,9 +195,9 @@ padding: 5px;
     TESTIMONIAL STYLES
 ==================================================*/
 
-#carousel-example {
+#opiniones {
     margin:20px;
-
+	position: relative;
 }
 .slide-custom {
     min-height:200px;
@@ -329,19 +329,3 @@ border-top: 1px solid #d6d6d6;
         font-size:28px ;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
