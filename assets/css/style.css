@@ -121,11 +121,11 @@ height: auto;
 }
 
 .head-main {
+	text-shadow:1px -1px 0 #737373; 
     font-size:80px ;
     font-weight:900;
     padding:15px;
     text-transform:uppercase;
-    
 }
 
 .head-last {
