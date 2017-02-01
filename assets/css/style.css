@@ -121,7 +121,6 @@ height: auto;
 }
 
 .head-main {
-	text-shadow:1px -1px 0 #737373; 
     font-size:80px ;
     font-weight:900;
     padding:15px;
@@ -158,6 +157,10 @@ display: block;
 -moz-transform: rotateZ(-45deg);
 -o-transform: rotateZ(-45deg);
 transform: rotateZ(-45deg);
+}
+
+.sombreado {
+	text-shadow:1px -1px 0 #737373; 
 }
 
 /*=======================================
