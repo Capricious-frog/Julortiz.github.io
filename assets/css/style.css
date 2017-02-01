@@ -160,7 +160,7 @@ transform: rotateZ(-45deg);
 }
 
 .sombreado {
-	text-shadow:1px -1px 0 #737373; 
+	text-shadow:1px -2px 0 #606060;  
 }
 
 /*=======================================
