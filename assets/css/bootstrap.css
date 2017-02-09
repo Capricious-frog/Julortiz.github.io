@@ -1408,6 +1408,9 @@ pre code {
     margin-left: 0;
   }
 }
+.punto {
+    font-size: 1.5em;
+}
 table {
   max-width: 100%;
   background-color: transparent;
